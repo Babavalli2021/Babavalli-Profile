@@ -85,9 +85,9 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ## 🤝 Connect With Me
 
 <div align="center">
-[![GitHub](https://github.com/Babavalli2021)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikvalli2020@gmail.com)
+[![GitHub](https://github.com/Babavalli2021)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy)<br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikvalli2020@gmail.com)<br>
 
 </div>
 
