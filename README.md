@@ -175,8 +175,8 @@ DevOps knowledge should be accessible to everyone. We believe in:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/Babavalli2021))
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/babavalli)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/babavalli)
 
 </div>
 
